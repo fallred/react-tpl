@@ -1,0 +1,5 @@
+export const LOGIN_TYPES = {
+  UN_VALIDATE: "UN_VALIDATE",
+  LOGINED: "LOGINED",
+  UNLOGIN: "UNLOGIN"
+};
